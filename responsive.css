@@ -1,0 +1,9 @@
+@media screen and (max-width: 768px){
+    body{
+        min-height: 100vh;
+    }
+
+    .opcoes{
+        flex-direction: column;
+    }
+}
